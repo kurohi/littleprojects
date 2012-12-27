@@ -1,0 +1,117 @@
+../photos/igor1/finger1.pgm
+media		dp		contagem
+3.968450	0.172307	7
+media		dp		contagem
+2.626212	0.693161	12
+media		dp		contagem
+2.284568	0.000000	1
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger2.pgm
+media		dp		contagem
+4.034905	0.168474	6
+media		dp		contagem
+2.850127	0.829259	7
+media		dp		contagem
+2.406280	0.000938	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger3.pgm
+media		dp		contagem
+3.946182	0.050419	4
+media		dp		contagem
+2.658151	0.540662	9
+media		dp		contagem
+2.376958	0.010422	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger4.pgm
+media		dp		contagem
+3.923003	0.151296	4
+media		dp		contagem
+3.246007	1.011156	7
+media		dp		contagem
+2.355239	0.118598	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger5.pgm
+media		dp		contagem
+4.061787	0.043258	2
+media		dp		contagem
+2.226009	0.485030	14
+media		dp		contagem
+2.439115	0.000795	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger6.pgm
+media		dp		contagem
+4.096780	0.216012	5
+media		dp		contagem
+2.536491	0.613352	10
+media		dp		contagem
+2.461198	0.000000	1
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger7.pgm
+media		dp		contagem
+3.876593	0.110998	4
+media		dp		contagem
+2.703251	0.668908	12
+media		dp		contagem
+2.149066	0.028035	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger8.pgm
+media		dp		contagem
+4.135256	0.077999	4
+media		dp		contagem
+2.481961	0.437974	11
+media		dp		contagem
+2.275803	0.000345	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+
+../photos/igor1/finger9.pgm
+media		dp		contagem
+3.932038	0.163802	3
+media		dp		contagem
+2.336151	0.495594	15
+media		dp		contagem
+2.473990	0.001213	2
+media		dp		contagem
+-nan	-nan	0
+media		dp		contagem
+-nan	-nan	0
+
+

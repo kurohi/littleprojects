@@ -1,0 +1,9 @@
+data/build/Makefile.i
+data/include/enhance.h.i
+data/include/imagem.h.i
+data/src/enhance.back.c.i
+data/src/enhance.c.i
+data/src/gooys.c.i
+data/src/imagem.c.i
+data/templates/Tem_Ele.txt.i
+data/README.i

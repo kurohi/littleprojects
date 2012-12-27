@@ -1,0 +1,28 @@
+Universidade de Brasília
+Departamento de Ciência da Computação
+Disciplina: Programação Avançada
+Código da Disciplina: 117234
+
+Especificação do Trabalho de disciplina:
+
+Trabalho: Image Maze
+
+Integrante: Igor de Carvalho Coelho - 06/20068
+
+Descrição:
+Esse trabalho irá receber uma imagem como entrada, fazer um processamento nela e gearar um labirinto usando a imagem como base.
+Nas linhas da imagem serão erquidas as paredes e o jogador será colocado no meio do labirinto, tendo que sair por conta própria.
+
+O trabalho terá diversas funções para o processamento da imagem, mas para o labirinto em si apenas duas tem a necessidade de serem conhecidas:
+ a enhace: que se encarregará de fazer uma imaem binária e afinada da imagem de entrada
+ e a makeMaze: Que escreve o labirinto usando elevation grid e a imagem dada como entrada
+
+Serão dados 2 fontes, uma com que usa apenas imagens como entrada e outra que usa um leitor de impressão digital como entrada para que o labirinto seja gerado pela sua própria impressão digital.
+
+Como só tem um integrante eu farei tudo.
+As funções serão testadas usando diversas imagens de resoluções diferentes e com labirintos diversos.
+
+A parte de "enhance" deverá estar pronta até o dia 5/12
+A parte do make maze deverá estar pronta até o dia 30/12
+
+Nota: O único tipo de imagem aceitado será .pgm

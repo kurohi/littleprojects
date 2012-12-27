@@ -1,0 +1,24 @@
+Universidade de Brasilia - UnB
+Instituto de Ciências Exatas - IE
+Departamento de Ciência da Computação - CIC
+
+Segurança de Dados
+professor: Pedro Rezende
+
+nome: Igor de Carvalho Coelho
+matricula: 06/20068
+
+
+O codigo analise.c é o encarregado do programa principal
+O codigo getfrquecy.c cria um arquivo com as frequencias do idioma
+
+Há uma versão pre-compilada do analise.c o vinanalise
+para usar basta escrever o comando
+./vinanalise <nome do arquivo encriptado> <tamanho máximo da chave> <e o arquivo com as frequencias dos caracteres da lingua>
+o arquivo decriptado será o de nome decripted.txt
+
+Há uma versão pre-compilada do getfrquecy.c o freqmake
+para usar basta escrever o comando
+./freqmake <nome do arquivo com um texto no idioma preferido> <nome do arquivo de saida>
+
+

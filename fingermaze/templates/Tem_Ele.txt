@@ -1,0 +1,26 @@
+
+Transform {
+
+translation tra_x tra_y tra_z
+
+children [
+	Shape {
+		appearance Appearance{
+			material Material { 
+				diffuseColor     0.8 0.8 0.8 
+				}
+			}
+		geometry ElevationGrid {
+		xDimension  DIM_X
+		zDimension  DIM_Z
+		xSpacing    ESP_X
+		zSpacing    ESP_Z
+		height [
+			COORDS
+			]
+		}
+	}
+  ]
+
+}
+

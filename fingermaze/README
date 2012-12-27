@@ -1,0 +1,22 @@
+O programa possu 2 modos: o modo usando uma imagem .pgm e outro que usa o leitor de impressão digital(com fprint).
+
+Para compilar e rodar no modo "fprint" deve-se:
+-Descomentar a linha "#define USE_FPRINT" no arquivo src/gooys.c
+-Descomentar as duas chamadas a "$(FPRINT)" e "$(FPRINT_OBJ)" no makefile em build/Makefile
+-Rodar o comando make na pasta build
+-Executar o programa gooys sem parametros
+
+
+Para compilar e rodar no modo "imagem" deve-se:
+-Comentar a linha "#define USE_FPRINT" no arquivo src/gooys.c
+-Comentar as duas chamadas a "$(FPRINT)" e "$(FPRINT_OBJ)" no makefile em build/Makefile (com o caractere #)
+-Rodar o comando make na pasta build
+-Executar o programa gooys com o caminho para a imagem como parametro
+
+O programa gera um arquivo saida.wrl na pasta vrml que pode ser lido com qualquer leitor de vrml
+Também é gerado uma imagem com o resultado do pré-processamento, pode ser usado como um "minimapa" na pasta img_out.
+Tem alguns exemplos de mapas na pasta img.
+
+Dica: Se for desenhar o mapa tente deixar o meio do mapa sem paredes pois a posição inicial do jogador é no meio do mapa e se tiver uma parede no local pode ser que começe dentro da parede, mas pode-se sair com a funcionalidade de voo.
+
+--Divirta-se e vamos ver se você consegue sair de si mesmo.
